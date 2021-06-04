@@ -2,6 +2,7 @@ import binascii
 import json
 import os
 import time
+import requests
 
 
 class FileSignatures:
