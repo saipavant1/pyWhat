@@ -1,6 +1,7 @@
 import binascii
 import json
 import os
+import time
 
 
 class FileSignatures:
